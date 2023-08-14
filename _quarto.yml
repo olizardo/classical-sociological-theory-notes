@@ -21,10 +21,16 @@ book:
   page-navigation: true
   chapters:
     - index.qmd
-    - marx-estrangement.qmd
-    - marx-soc-econ-history.qmd
-    #- marx-manifesto.qmd
-    #- marx-wage-labor.qmd
+    - part: marx.qmd
+      chapters: 
+      - marx-estrangement.qmd
+      - marx-soc-econ-history.qmd
+      - marx-manifesto.qmd
+      - marx-wage-labor.qmd
+    - part: weber.qmd
+      chapters:
+      - weber-prefatory.qmd
+      - weber-action-interests.qmd
 
 #bibliography: networks.bib
 
