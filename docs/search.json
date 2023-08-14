@@ -7,6 +7,13 @@
     "text": "Welcome\nThese are lecture notes from an undergraduate class on classical sociological theory I taught at the university of Notre Dame quite a long time ago. Feel free to draw on them if you find them useful."
   },
   {
+    "objectID": "marx.html",
+    "href": "marx.html",
+    "title": "Marx",
+    "section": "",
+    "text": "Lecture notes on Marx."
+  },
+  {
     "objectID": "marx-estrangement.html#why-begin-with-marx",
     "href": "marx-estrangement.html#why-begin-with-marx",
     "title": "1  Marx on Estrangement and the Labor Process",
@@ -133,11 +140,11 @@
     "text": "4.4 Discussion Questions on Commodity Fetishism\n\nWhat is fetishism?\nWhat are the different aspects of fetishism?\nIn what specific ways does Marx use the concept of fetishism?\nHow does fetishism show up in our own society?\nHow does Marx explain the origins of fetishism as a result of the organization of production, consumption and exchange in capitalism?"
   },
   {
-    "objectID": "marx.html",
-    "href": "marx.html",
-    "title": "Marx",
+    "objectID": "weber.html",
+    "href": "weber.html",
+    "title": "Weber",
     "section": "",
-    "text": "Lecture notes on Marx."
+    "text": "Lecture notes on Weber."
   },
   {
     "objectID": "weber-prefatory.html#after-marx",
@@ -187,5 +194,54 @@
     "title": "6  Weber: The Different Roads to Salvation",
     "section": "6.4 Assignment",
     "text": "6.4 Assignment\nInstructions.- As we have seen, in contrast to Marx who claimed that social position determined ideas, Weber argues for the independent effect of ideas on social action. Weber reasoned that the best way to demonstrate this effect of ideas on social action was through the analysis of lines of conduct that would appear to be irrational if it were not for our capacity to reconstruct the motivations for that type of action by appealing to the person’s belief system. For this assignment, I want you to take a piece of behavior that is seemingly irrational, and make it understandable by reconstructing the actors motivation and their belief system. Make sure to be specific and to pay attention to the details of your example."
+  },
+  {
+    "objectID": "weber-religion-and-action.html#elementary-forms-of-religious-action",
+    "href": "weber-religion-and-action.html#elementary-forms-of-religious-action",
+    "title": "7  Weber: Religion and the Motivation of Action",
+    "section": "7.1 Elementary Forms of Religious Action",
+    "text": "7.1 Elementary Forms of Religious Action\nWeber’s first substantive point is that “the most elementary forms” of religious behavior rather than being oriented to the supernatural are instead primarily oriented towards mundane, worldly concerns, such as health, finances, crops, etc.\nThis makes elementary religious action a type of “rational” action even though it does not quite fit the means-end action schema: “Thus, religious or magical behavior or thinking must not be set apart from the range of everyday purposive conduct, particularly since even the ends of the religious and magical actions are predominantly economic.”\nFor Weber, the most elementary form of religious action is magic. Magic is rational, because it is designed to produce effects, gets things done and satisfy needs and desires. With magic, and by means of a magician, persons attempt to influence natural and supernatural powers to get what they want.\nWeber notes that it is illicit to judge magical action according to the standards of modern science. Instead from the point of view of those who believe in the effects of magical acts and perform those acts themselves the relevant distinction is between ordinary phenomena and those of an unusual or extraordinary nature. While the former do not require magic, the latter do."
+  },
+  {
+    "objectID": "weber-religion-and-action.html#charisma-and-religion",
+    "href": "weber-religion-and-action.html#charisma-and-religion",
+    "title": "7  Weber: Religion and the Motivation of Action",
+    "section": "7.2 Charisma and Religion",
+    "text": "7.2 Charisma and Religion\nBelief in the effectiveness of magic requires a conceptualization of a power that is responsible for the effect. Weber notes that various cultures have terms for such powers (e.g. mana, orenda, maga, etc.). He uses the term “charisma” to refer to the same set of notions.\nCharisma can be of two types: “ascriptive” or “achieved” (these are not Weber’s own terms). Ascriptive charisma is seen as inherent in the person or object and is not transferable. Achieved charisma can be produced through the deployment of “extraordinary means.”\nFor Weber, the first act of religious abstraction consists in the separation of the charisma of persons or objects from their material manifestation, so that their efficacious power is now seen as emanating from an invisible quasi-personal being or force which can enter or be linked to otherwise mundane objects and persons: “this is the belief in spirits” (italics mine)."
+  },
+  {
+    "objectID": "weber-religion-and-action.html#the-first-professional-the-magician",
+    "href": "weber-religion-and-action.html#the-first-professional-the-magician",
+    "title": "7  Weber: Religion and the Motivation of Action",
+    "section": "7.3 The First Professional: The Magician",
+    "text": "7.3 The First Professional: The Magician\nWeber denies that there is a direct correlation between the belief in spirits and some determinate change at the level of the economy (as a Marxian analysis would suggest, see Lecture @ref(marx-soc-econ-hist)). Instead, Weber notes that the belief in spirits is more likely a product of the development of the “full-time magician” as a vocation. Full-time magicians are persons thought to be endowed with permanent charisma and thus with an ability to control or channel spiritual forces. They are thus the first ones to engage in “the rational manipulation of spirits in accordance with economic interests.”\nThe magician’s charisma is usually thought to reside in his or her ability to achieve a particular psychological state unavailable to the layman through means that are usually kept “secret” from them. The magician is distinct because he is the first “professional” to set up a continuous enterprise of which he is a self-appointed indispensable member.\nThe concept of the soul, according to Weber develops directly from the professional practice of the magician. This is thought to be “a separate entity present in, behind or near natural objects.”"
+  },
+  {
+    "objectID": "weber-religion-and-action.html#the-rationalization-of-religious-belief",
+    "href": "weber-religion-and-action.html#the-rationalization-of-religious-belief",
+    "title": "7  Weber: Religion and the Motivation of Action",
+    "section": "7.4 The Rationalization of Religious Belief",
+    "text": "7.4 The Rationalization of Religious Belief\nSpirits can be thought of in two ways. First, they may be thought of as entities that can dwell or enter objects or persons thus coming to affect their behavior and endow them with special powers; this is the naturalistic conception of spirits. Second, they may be thought of as “invisible essences that follow their own laws” and which are simply “symbolized” by concrete objects. This is the abstract conception of spirits. The trend in religious evolution is for naturalism to be supplanted with abstract symbolism. T he next stage in religious evolution is the development of permanent Gods and Demons endowed with their own personality and individuality. This requires some work, since initially most Gods are impersonal or indistinguishable from the natural forces that are associated with them and very few are endowed with permanent sites or worship or are even conceived in the same way over time.\nInitially we may see some personalization when names of famous chiefs or warriors come to be attached to some spirits. However, even with the emergence of individualization, the emergence of a permanent cult is still highly contingent on social circumstances and is not foreordained in advance. Be that as it may, the next stage is certainly the one in which impersonal forces and spirits are transformed into personal “souls” and individualized “Gods” and “Demons.”"
+  },
+  {
+    "objectID": "weber-religion-and-action.html#the-magicalization-of-the-world",
+    "href": "weber-religion-and-action.html#the-magicalization-of-the-world",
+    "title": "7  Weber: Religion and the Motivation of Action",
+    "section": "7.5 The Magicalization of the World",
+    "text": "7.5 The Magicalization of the World\nThis development has profound consequences. First, since the supernatural realm that comes to be populated with them is invisible, a whole set of “symbolic” techniques and technology must be developed to regulate communication between Gods and persons, these include those communications designed to influence the Gods to further individual and collective interests: “this is done through actions that address themselves to a spirit or soul, hence done by instrumentalities that”mean” something, i.e., symbols. Thereafter, naturalism may be swept away by a flood of symbolic actions.” This is the magicalization of the world.\nThis “proliferation of symbolic acts and their supplanting of the original naturalism” has a series of important consequences for the evolution of culture. Primarily this represents an advance towards rationalization and the elimination of certain irrational consequences that resulted from the concreteness of naturalistic thinking (e.g. the example of the dead and their possessions).\nHowever, the emergence of “action symbolism” also results in irrational consequences in particular the emergence of “orthopraxy” and tradition. Because success comes to be tied to the exact replication of the original act that was thought to be efficacious, deviations from established practice come to be condemned as sacrilegious and as deserving of punishment. Thus, “the first and fundamental effect of religious views upon the conduct of life and therefore upon economic activity was generally stereotyping…*To the natural uncertainties and resistances of every innovator, religion thus adds powerful impediments of its own. The sacred is uniquely unalterable” (a position that is compatible with Durkheim’s)."
+  },
+  {
+    "objectID": "weber-religion-and-action.html#the-rationalization-of-religion-the-de-magicalization-of-the-world",
+    "href": "weber-religion-and-action.html#the-rationalization-of-religion-the-de-magicalization-of-the-world",
+    "title": "7  Weber: Religion and the Motivation of Action",
+    "section": "7.6 The Rationalization of Religion (the De-Magicalization of the World)",
+    "text": "7.6 The Rationalization of Religion (the De-Magicalization of the World)\nThe end of naturalism and the establishment of permanent cults dedicated to the worship of “abstract” Gods, leads professional magicians to evolve into permanent keepers of the cult and to be begin the process of the rationalization of doctrine and belief. Here rationalization is the systematic organization of religious ideas. Initially all cults begin as pre-rationalized, disorganized “miscellany of accidental entities held together fortuitously by the cult.” Once a full-time set of religious professionals is in place however, “there is generally a tendency for a pantheon to evolve…This entails, on the one hand, the specialization and the fixed characterization of particular gods and, on the other, the allocation to them of constant attributes and differentiated responsibilities.”\nWeber then goes on to engage in one of his classic analyses of the “spillover” of religion onto other domains. He does this by deriving a particular sort of legalistic thinking about the (secular) consequences of every type of action, from the Roman concern with the casuistry of their various activities. Because the Roman pantheon consisted of an almost innumerable panoply of (official and unofficial) deities, of which claimed a particular jurisdiction and each of which had to be taken into account (in order to be satisfied) in the performance of even the most mundane of acts, Roman religious culture “had the effect of producing a conceptual analysis of all individual actions into their components, each being assigned to the jurisdiction of a particular numen whose special protection it enjoyed.” In this way a pattern of action developed in the religious realm, “sacred law” ends up becoming “the mother of rational juristic thinking.”"
+  },
+  {
+    "objectID": "weber-religion-and-action.html#discussion-questions",
+    "href": "weber-religion-and-action.html#discussion-questions",
+    "title": "7  Weber: Religion and the Motivation of Action",
+    "section": "7.7 Discussion Questions",
+    "text": "7.7 Discussion Questions\n\nWhat are the main characteristics of “inner-worldly asceticism”?\nWhat is the primary aim of the Mystic?\nHow do the mystic and the ascetic relate to the secular world?\nWhat is the primary consequence (for everyday living) of “inner-worldly asceticism”?"
   }
 ]
