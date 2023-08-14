@@ -1,0 +1,44 @@
+project:
+  type: book
+  output-dir: docs
+  
+book:
+  title: Classical Sociological Theory
+  subtitle: Lecture Notes
+  author: Omar Lizardo 
+  date: 8/15/2023
+  #repo-url: https://github.com/olizardo/classical-social-theory
+  #repo-actions: [source]
+  search:
+    location: sidebar
+    type: textbox
+  navbar:
+    pinned: true
+    background: "#2D68C4"
+  sidebar: 
+    #logo: social-ties1.jpeg
+    subtitle: Notes
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - marx-estrangement.qmd
+    - marx-soc-econ-history.qmd
+    #- marx-manifesto.qmd
+    #- marx-wage-labor.qmd
+
+#bibliography: networks.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    page-layout: full
+    
+execute:
+  echo: false
+  warning: false
+  message: false
+
+editor: source
+

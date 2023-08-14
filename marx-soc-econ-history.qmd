@@ -1,0 +1,80 @@
+---
+title: Marx on Society and Economic History 
+---
+
+## Finding logic in history
+
+Marx was certainly not the first, but has certainly been the most influential of the modern thinkers that has tried to understand the "logic" of history. This has been a very seductive idea in the history of social thought and has been expressed in both religious (e.g. theological) and secular formulations. For instance, on the religious side, the conception of a progression of human history from a pristine state, to the "fall" to a future redemption was dominant in the Christian West.
+
+In the eighteenth century, the rise of "enlightenment" philosophy produced the first influential version of a secular theory of history progression which proclaimed the past (the medieval dark ages) as an epoch ruled by error and superstition and saw the future as one of progress governed by reason. This is why the period is classically known as "*The Age of Reason*."
+
+With Marx the notion of a logic of history passes from philosophical speculation into the realm of social science. The faith that human history follows a decipherable logic makes Marx a "progressive" thinker. This contrasts to thinkers who see history as simply a random collection of events with no rhyme or reason or those who see history as following a logic, but one of decline rather than progress.
+
+Marx acquired the penchant of understanding human historical progress through a conceptual lens offered by Hegelian philosophy. In Hegel, history could be understood as the gradual progression of cultural "epochs" or periods. These periods were characterized by the dominance of particular conceptions or ideas which defined social relationships, institutions and even religious notions. Hegel's mature philosophy came to be perceived as a "conservative" ideology for the fledgling unification government in Germany. For Hegel the "logic" of the history of ideas and political and social forms "culminated" in the aristocratic quasi-democracy of the Prussian state.
+
+Marx was part of a group of intellectuals in Germany in the 1830s and 1840s that came to be known as the **Young Hegelians**. These intellectuals rejected the conservative cast of official Hegelianism while retaining the basic conceptual apparatus. Some of the young Hegelians used Hegel' own dialectical method and his reflections on the origins of subjectivity as a form of "alienation" to mount a radical attack against traditional Christianity.\
+Marx, like the rest of the young Hegelians was enthusiastic about the "critical" project, but he rejected the residual idealism of [**Ludwig Feuerbach**](https://en.wikipedia.org/wiki/Ludwig_Feuerbach) (the most influential of the Young Hegelians), for a sociologically flavored concern with how persons "produce" their being as part of attempting to subsist. Marx also retained the ambition to understand the logic that governed the transition from one historical period to the next.
+
+Marx's most lasting innovation is his proposition that the "logic" of historical progression lies not in ideas or cultural forms, but in concrete and very much material "modes" for the organization of economic production. This follows from his rock-bottom assumption that the essence of human beings (what makes them different from animals) is the capacity to produce their own mode of subsistence. For Marx, it was innovation and revolutions at the level of the productive forces (productive technology and the relations of production characteristic of an epoch) in which the secret to understanding the logic of history could be found.
+
+## The Components of Society
+
+Marx thought that society was composed of four major elements: The **forces of production**, the **relations of production**, **political and legal institutions** and finally what he referred to as **ideology** and **forms of consciousness** (intellectual and cultural products).
+
+-   *The forces of production* are the technological bedrock with which persons procure their living. They are the material forces that generate production. These include tools, machinery, technology, factories, etc.
+-   *The relations of production* are the relations in which persons enter into in order to produce their means of subsistence (e.g. wage labor, serfdom, slavery, cooperation, etc.).\
+-   *Political and legal institutions* are designed to regulate both the acceptable ways of organizing production and even the acceptable uses of technology for the production of goods as well as the forms of the distribution, exchange and consumption of goods.
+-   Finally, *ideology and forms of consciousness* emerge to make sense of and justify some existing way of organizing production.
+
+## Understanding Historical Change
+
+Marx emphasizes that in order to understand the progression of historical stages, we must understand *economic development*. That is, because society is the result of reciprocal action among persons any one individual cannot choose the form of society that he she lives in. This means that a given state of the productive "forces" or faculties general fixes the form of commerce and consumption of society. Production, commerce and consumption in their turn fixes the constitution of civil society (e.g. politics, family life, classes, etc.).
+
+Persons *do not choose* the productive forces of the society, and they can do very little to alter them as individuals. Historically, men are born into and encounter a certain state of the productive forces of society which serve as a constraint and as a point of departure for further development. The productive forces determine the type of material relations that men can enter into with another, and "\[t\]heir material relations are the basis of all their relations. These material relations are only the necessary forms in which their material and individual activity are realized" (p. 137).
+
+Economic relations are *secondary* to the particular state of development of the productive forces. Once there is a change in the specific material mode in which men produce their subsistence, the older economic institutions and the social relations premised upon them must change ("burst") in turn. Thus, Marx explains the demise of the medieval guild system in England as a result of the technological development and the expansion of commercial activity: "...as men [sic] develop their productive faculties, that is, as they live, they develop certain relations with one another...the nature of these relations must necessarily change with the change and growth of the productive faculties" (p. 140).
+
+To each economic epoch, Marx notes there exist a particular coupling between a given way of organizing production (a "division of labor") and a particular state of technology. These are *concrete historical forms* and not abstract a-temporal "economic categories." Thus, for Marx, there is no such thing as "The Division of Labor" *in general* or "machinery" *in general*, but specific forms of the division of labor (which correspond to a given state of development of the productive forces of a given society) or a specific state of development of productive technology. To state otherwise is to commit the idealistic fallacy of reification of historical realities into abstract economic forms.
+
+For Marx, persons produce not only material products, but they produce the social relations under which production takes place and they produce they idea with which they make sense of and legitimize a given organization of production. There is no *dualism* between material and ideal, since both are the product of human activity.
+
+## An Outline of Marx's Historical Model
+
+### The base-superstructure model
+
+-   "In the social production of their life, men enter into definite relations that are *independent of their will*" (p. 4).
+-   These are "*relations of production*" (p. 4).
+-   These *relations of production* *correspond* to a definite stage of development of their material productive forces" (p. 4). These is the thesis of *correspondence* between **relations of production** and **productive forces**.
+-   "The sum total of these relations of production constitute the **economic structure** of society." Economic structure = **relations of production** + **productive forces**.
+-   The economic structure of society is the "real" foundation upon which a "**superstructure**" composed of *legal and political institutions* and "*forms of social consciousness*" rests.
+-   "The **mode of production** [economic structure] of material life conditions the social, political and intellectual process in general" (p. 4).
+-   This is the thesis of the *conditioning role of the economic structure in relation to the superstructure*.
+
+### The base/superstructure conflict-model of historical change
+
+-   "At a certain stage of their development, the *material productive forces* of society come in *conflict* with the existing *relations of production*, or---what is but a legal expression of the same thing---with the *property relations* within which they have been at work hitherto" (p. 4).
+
+-   This is the thesis of the *uneven development* of the productive forces in relation to the relations of production and the superstructure.
+
+-   In a certain respect Marx is arguing that the productive forces change at a faster rate than the relations of production and the legal arrangement that support them both of which tend to *lag behind*.
+
+-   These now obsolete relations of production are not only lagging behind, but begin to constitute an *impediment* to the further development of the productive forces: "...these *relations* turn into their *fetters*" (p. 4-5).
+
+-   This situation can only be resolved through a revolutionary change in which new relations of production are devised which better "fit" the new forces of production.
+
+-   "Then begins an epoch of *social revolution*. With the change of economic foundation the entire immense superstructure is more or less rapidly transformed" (p. 5).
+
+-   Marx argues that technological transformations should be kept distinct from its accompanying "ideological", legal or cultural transformations. The former "can be determined with the precision of natural science," while the latter tend to (presumably) be much more slippery, messy and harder to pin down.
+
+-   Marx did not think that looking at cultural transformations was a good way to estimate whether a period of revolution was on its way; instead it is more accurate to look at "the contradictions of material life" especially the tensions between "productive forces" and "relations of production."
+
+-   In this respect Marx makes two observations:
+
+1.  First, "no social order ever perishes before all the productive forces for which there is room in it have developed" (p. 5).
+2.  Second, "new, higher relations of production never appear before the *material conditions* of their existence have *matured* in the *womb* of the old society itself" (p. 5).
+
+## Let us look into the future...all the way to the year 2000!
+
+Different historical modes of production can be arranged in a progressive order. In Marx's view:
+
+> The Bourgeois relations of production are the last antagonistic form of the social process of production...the productive forces developing in the womb of bourgeois society create the material conditions for the solution of that antagonism. This social formation brings, therefore, the prehistory of human society to a close (p. 5).

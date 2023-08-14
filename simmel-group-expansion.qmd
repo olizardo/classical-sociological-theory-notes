@@ -1,0 +1,91 @@
+# Simmel on Group Expansion and the Development of Individuality^[Simmel G. 1971[1908].  "Group Expansion and the Development of Individuality."  Pp. 251-293 in D. Levine (Ed.) *Georg Simmel on Individuality and Social Forms*.  Chicago: University of Chicago Press.]
+
+## Group Expansion
+
+Simmel begins by saying that he will be focusing not on describing a given social form, but in trying to argue for a correlation or linkage between two sociologocal factors: The *expansiveness* of the group, and the development of **individualism** as a cultural phenomenon:
+ 
+> The following inquiry is of a different sort.  It is devoted to the demonstration of a relational pattern, of a single pattern, even though it emerges in conjunction with many modifications, wrappings and admixtures.  What is common to the sections of the present chapter  is not a concept, but a proposition. Rather than pursuing a single abstracted form in the phenomena where it happens to appear, phenomena whose contents are not constrained in any particular direction by the form, this chapter presents a particular [empirical] correlation, an interactionally determined pattern of development among forms of association [251-252].  
+
+Thus, Simmel's keey proposition is that:
+
+> Individuality in being and action generally increases to the degree that the social circle encompassing the individual expands (p. 252).
+
+This is essentially the same as Durkheim’s argument in *Division of Labor in Society*.  Simmel relies on similar mechanisms: Increases in *population size* and *density* lead to *competition* among individuals which results in *specialization of function*.
+
+The key sociological mechanism, is what Simmel calls **Group Expansion**. What does Simmel mean by "Group Expansion"? According to Simmel, group expansion has to main aspects: 
+
+- A *Quantitative* aspect:  Groups expand when they become larger (add more people)
+- A *Qualitative* aspect:  Groups expand when people begin to interact with different others across previously established group boundaries.
+
+## Consequences of group expansion
+
+Simmel sees to main social consequences to group expansion. 
+	
+- First, there is increased **internal differentiation** of members of the collectivity.
+
+- Second, there is increased **external de-differentiation** of the larger group in relation to other collectivities.  
+This last is a counter-intuitive conclusion:  as group expands and individuals differentiate, *groups become more similar to one another*.     			
+ 	
+- Increasing likelihood that relationships will form between individuals from different groups as there come to be more similarities across individuals in the same social position across groups than between individuals in different social positions within groups (p. 253).   
+
+- Expansion of other forms of relationship (political, economic, etc.) beyond the boundaries of the group.  According to Simmel:
+			
+> After the process of social differentiation has led to a separation between high and low, the mere formal fact of occupying a particular social position creates among the similarly characterized members of the most diverse groups a sense of solidarity and, frequently of actual relationships.  Accompannying such a differentiation of social groups, there arise a need and an inclination to reach out beyond the original spatial, economic, and mental boundaries of the group and, in connection with the increase in individualization and concomitant mutual repulsion of group elements, to supplement the original centripetal forces of the lone group with a centrifugal tendency that forms bridges with other groups (253).
+
+Simmel then goes on to recapitulate Marx and Engels' argument for the emergence of of global capitalist markets out of local feudal markets (see Lecture \@ref(marx-manifesto)), as an example of the end of communal de-differentiation and the emergence of market-based competitive differentiation. Simmel argues that economic globalization promotes individual differentiation from the group and leads to the decline of strongly bounded groups that suppress individuality:
+			
+> Even given a certain technical division of labor, as long as the small, primitive group is self-sufficient, a pervasive equality exists in that each member of the group works for the group itself; every achievement is sociologically centripetal. However, as soon as the boundaries of the group are ruptured and it enters into trade in special products with another group, internal differentiation develops between those who produce for export and those who produce for domestic consumption---two wholly opposed modes of being (254).
+
+Key proposition:
+> ...[D]ifferentiation and individualization loosen the bond of the individual with those who are most near in order to weave in place a new one---both real and ideal---with those who are most distant...(256).
+				
+> Consistent with the above, the broad uneducated masses of one civilized people are more homogeneous internally, and they are separated from the masses of a second people by more distant characteristics, than is the case either within or between the educated strata of these populations (256).
+
+> This means that as individuation increases it is easy to connnect with others who are far away from us (however "far away" is defined; spatially, socially, culturally, etc.)
+
+## The Relation between Personal and Collective Individuality
+
+### Simmel's Duality of Human Nature Argument
+	
+> ...[I]n each person, other things being equal, there is, as it were, an unalterable ratio between individual and social factors that changes only in its form. The narrower circle to which we commit ourselves, the less freedom of individuality we possess; however this narrower circle is itself something individual, and it cuts itself off sharply from all other circles precisely becasue it is small.  Correspondingly, if the circle in which we are active and in which our interests hold sway enlarges, there is more room in it for the development of our own individuality; but *as parts of this whole*, we have less uniqueness:  the larger whole is less individual as a social group.  Thus, the leveling of individual differences corresponds not only to the relative smallness and narrowness of the collectivity, but also---above all---to its own individualistic coloring (257). 			
+
+### The Basic Relation as a Dualistic Drive
+
+> We lead as it were, a doubled, or if one will, a halved existence.  We live as an individual within a social circle, with tangible separation from its other members, but also as a member of this circle, with separation from everything that does not belong to it (259). 
+
+However, "individuality" is a property of both persons and groups, which makes Simmel’s analysis a bit more complicated than Durkheim's:
+	
+> However, this narrower circle is itself something individual, and it cuts itself off sharply from all other circles precisely because it is small…if the circle in which we are active and in which our interests hold sway enlarges, there is more room for the development of our individuality; but as parts of this whole, we have less uniqueness:  the larger whole is less individual as a social group.  Thus the leveling of individuals differences corresponds not only to the relative smallness and narrowness of the collectivity, but also…to its own individualistic coloring (p. 255). 
+
+Key consequences of the opposition between individual and social motivations:
+	
+- The "drives" toward differentiation and non-differentiation cannot be satisfied at the same time.
+- The social settings that afford differentiation do not allow for non-differentiation and vice versa.
+- Certain groups are "ambiguous" in that they play both differentiating and non-differentiating roles. 
+- For Simmel, larger circles encourage individual freedom while smaller ones restrict it (269).
+- While larger groups provide more freedom of choice, this "freedom" can become restrictive (the marriage example), while the constraint produced by narrower circles can be experienced as "freedom."		
+
+### Attachments between the first and third levels
+Why are individualists more likely to be committed to large abstract groups than collectivists? What is Simmel's "near and far" argument?
+		
+### Freedom and Individuality
+- Simmels law:  *...the larger circle encourages individual freedom, the smaller one restricts it*
+
+### Two Forms of Individuality
+In contrast to Durkheim, Simmel recognizes *two types* of individuality:
+- One is a **negative" individuality** involving *freedom from* traditional bonds and attachments.
+  - This individuality requires "negative liberty" and the recognition of the "abstract" equality of persons.
+- The other is a **positive individuality** premised on the *freedom to* develop a unique personal style.
+  - In contrast to negative individuality which is premised on what all humans have in common, this more positive individuality is premised on what is unique to each person, and thus on differentiation.
+			
+- This is a more "romantic" notion of individuality.
+
+## Individualism, Cosmopolitanism and the Different Social Spheres
+Individualism according to Simmel, necessarily results in cosmopolitanism.
+
+Cultural individuation also shows up in distinctive form in different social spheres:
+
+- The economy
+- Politics
+- Religion
+- The private sphere of consumption

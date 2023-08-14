@@ -1,0 +1,62 @@
+# Weber: Prefatory Remarks...(1920) {#weber-prefatory}
+
+## After Marx
+Marx lays out the fundamental set of problems, questions and issues that will be taken up by the second generation of social theorists who came of age after him.  Marx himself died destitute in London in 1883.  His subsequent influence on academic sociology was not direct, but was mediated by the major figures who had to deal with his intellectual legacy in Germany and France:  Max Weber, Emile Durkheim and Georg Simmel.
+
+What are the main set of unresolved issues that Marx's left for the next generation?  First there's the problem of modernity and modernization, in particular the social, cultural, political and economic consequences of modernity. Second, there is the problem of capitalism.  We will see that Weber, Simmel and Durkheim attack these problems in their own way.  They do so by a critical engagement with the Marxian legacy.  This engagement is critical because it attempts to address the major weakness of the Marxian system of explanation: the neglect of culture, values and meaning and the relative neglect of issues of authority, community, association and solidarity. This is why in both Weber and Durkheim, religion emerges as a major issue. Weber in particular takes up a question that did not bother Marx too much: this is the issue of the *cultural specificity* of the West.
+
+Weber begins by outlining his "big" question: "What combination of circumstances led in the West, only in the West, to the appearance of a variety of cultural phenomena that stand...*in a historical line of development with universal significance and empirical validity*?" 
+
+Providing an answer to this question was the main motivation behind essentially the entirety of Weber's work.
+
+## Is the West special?
+Note that the very phrasing of this question presupposes a "politically incorrect" premise: that Western culture is indeed unique or stands apart from other cultures and civilizations. Weber certainly believed this and it is the purpose of this essay to outline a series of empirical facts that demonstrate this uniqueness. What are this facts?
+
+### Natural Science
+- First, science and the emergence of specifically rational systems of mathematics and theology are primarily a creature of Western culture. The application of mathematics to understanding the empirical world is also unique to the West. This is the line of cultural development that culminates in modern Physics and Chemistry.  Both of these sciences are essentially of Wester origin.  
+- The notion of logical "proof" was not present outside of the West and is unique to the tradition that begins with the Greeks.  The *rational experiment* was essentially absent from Eastern traditions and the modern laboratory is in fact an invention of Western scientists. The rational experiment is the fundamental tool of modern science; without it cumulative empirical progress is impossible.
+- A rational medicine and a rational chemistry was essentially absent outside of the West. Western medicine is **analytical** and based on the decomposition of the body and its organs as part of a mechanism. Eastern medicine is **holistic** and based on the notion of the body as an organismic "field" not decomposable into elements. The notions of "surgery" as a way to correct illness or the notion of distinct "functions" of various bodily organs is unique to the Western "mechanistic" outlook.  
+
+### Law and Political Science
+Only in the West do essentially rational systems of thought regarding society and the state emerge. These of course culminate in modern political theory, political science, sociology and today management and information science. While systems of thought regarding politics and society exist outside the West, all "omitted a systematic approach comparable to Aristotle's, as well as rational concepts in general."  
+
+Only in the West do we have systems of *rational* law.  Religious, traditional and so-called "Common Law" systems are of course universal, but only in the West does a tradition of *rational* jurisprudence emerge.  Rational jurisprudence is distinct in that it is founded on fundamental principles and axioms and in that there are rational procedures for both the application and the modification of law.  Only in the West does rational "Canon Law" emerge.  
+
+### Music and Art
+In the realm of art, the West stands out as distinctive. First, rational harmonic music and the development of a rational musical notation are known only in the West. The rationalization of the visual arts in the form of the incorporation of linear and spatial perspective is unique to Renaissance art. Particular architectural innovations using rational solutions to certain engineering problems (e.g. domes and the Gothic vault) appear only in the West.
+
+### Literature and the production of knowledge
+Printing existed in both East and West, but a *print culture* including printed literature designed for the sole purpose of being printed emerges only in the West.
+
+Universities are not exclusive to the West. However, the modern university system organized around departments and "disciplines" and featuring specialization along those lines exists only in the West.
+
+### Civil service, politics and rational bureaucracy
+The particular structure of Government organized around the figure of "The Civil Servant" can be found in many civilizations. Nevertheless,  "[o]nly in the modern West is our entire existence---the foundational political, technical, and economic conditions of our being---absolutely and inescapably bound up in the casing (*Gehause*) of an organization of specially trained civil servants."  
+
+Civil servants and civil service institutions in the public sector have existed in all civilizations, jowever, only in the West is this structure extended to all areas of government action and has carried the specialization and training in "technical, commercial, and, above all legal areas of knowledge who are the social carriers of the most important everyday functions of social life" (p. 207) to the extent to be found in the West  
+
+A specific form of parliamentary democracy is unique to the political life of the West.  Status groups have existed in all civilizations, but only in the West do they appear as the bearer of specific political rights of representation. Thus, the peculiar fact of divided political domination, premised on an always precarious compromise between "estates," is found only in the West. In all other societies estates were subordinate to the King or the emperor in the West the division of society into estates and the political influence gained by independent segments of civil society, produces the foundations of parliamentary democracy.   In all societies there are permanent organization dedicated to the pursuit of political power (parties), but only in the West do we find the specific combination of the state as a purely "political institution...operated according to rationally enacted "constitution" and rationally enacted laws, and administered by civil servants possessing specialized arenas of competence and oriented to rules and "laws."
+
+## The Uniqueness of Rational Capitalism
+Weber goes through great pains to differentiate non-rational forms of capitalism from **rational capitalism**.  He even notes that "capitalism" as the pursuit of riches or economic advantage is not historically unique to the West, and that various things that have been thought to be essential to capitalism can easily be shown to be found in all of its historical instances in every civilization. 
+
+To begin with, the "drive to acquire goods" and the "pursuit of profit," money, and the greatest possible gain" have nothing to do with capitalism.  This attitude can be found across the entire range of social and occupational strata.  It has existed "in all epochs, and in all countries of the glob" it is not historically unique or culturally distinctive.  Instead, Weber argues that "[t]his naive manner of conceptualizing capitalism by reference to a "pursuit of gain" must be relegated to the kindergarten of cultural history...and abandoned once and for all.  The unbridled pursuit of wealth and riches is not equivalent to capitalism, nor is it the essence of its mentality.  Instead what may be distinctive of Western capitalism may instead be a taming of the unbridled, uncontrolled tendency to accumulate profit.  In modern, rational capitalism "profit is pursued in a rational, continuous manner...and then pursued *again and again*, as is *profitability*."
+
+### Key features of rational capitalism
+
+What are the distinctive features of the Western capitalist enterprise?
+
+- Rational capitalism can be defined as "an expectation of profit based on the utilization of opportunities for *exchange*; that is, of (formally) *peaceful* opportunities for acquisition."
+- Rational capitalism is characterized by an action-orientation towards calculation via *rational accounting* (Double-Entry Bookkeeping).  Here the calculation of *balances* is crucial.  Profit must constantly be found to exceeds costs.  This is not necessarily dependent on the existence of monetary currency.  Under this definition, rational capitalism has existed at all time and in all civilizations.  But only in the West has this form of capitalism gone from being an isolated or institutionally buffered set of activities to be the dominant force of our time. 
+- This orientation is characterized by the establishment of **permanent enterprises** for the pursuit of profit.  This contrasts to the orientation toward short-term profits of pre-rational forms of capitalism.
+- Forms of capitalism that have almost all of the ingredients as rational capitalism (they exhibit permanence and the rational pursuit of profit) have existed in all times and ages.  This type of capitalism uses warfare, colonialism and other forms of political and military coercion to generate profit-making opportunities.  While this sort of capitalism is rational "at the top" it remains irrational in its dependence on political coercion, military violence and pre-rational forms of the organization of labor (slavery, plantations, etc.) at the "bottom." Weber called it **adventure capitalism**.
+- The use of (formally) free labor is one of the key defining features of the rational form of capitalism characteristic of the modern West. Only in the West, does something like a class of "free" laborers persons who have nothing but their labor power to sell in the open market has existed.  This means that the pure type of naked class struggles between property owners and property-less workers is unique to the West.  Thus, not only capitalism but modern socialism is a uniquely Western entity.  
+- The *separation* of business activity from the household economy is a major feature of rational capitalism, other forms of capitalism the (private) enterprise is always an extension of the family business and the finances are not kept separate.
+
+Rational capitalism was also aided by similar forms of *rationalization* outside the economy, specially in terms of:
+- The *Rational organization of work*.  For Weber, only formally "free labor" (as described by Marx) constitutes a rational way or organizing labor.  Other pre-capitalist forms (slavery, serfdom, etc.) constitute irrational elements preventing the rise of Rational Capitalism, even when other elements are there.
+- The *rational application of scientific discoveries* and technological developments to economic pursuits. 
+- The development of *rational Law and Administration*. 
+All of these help the rational capitalist do something that is crucial for the rational administration of the business enterprise which is to be able to **calculate** risks and benefits far into the future.
+
+While economic rationalism definitely helped in spreading this rationalist attitude, Weber notes that this rationalism is at the same time part of a larger cultural trend of rationalization in all areas of life. Thus, part of the answer to Weber's "big question" has to do with the development of a particular type of life conduct oriented to rational action in the secular world only in the West.

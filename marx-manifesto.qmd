@@ -1,0 +1,67 @@
+# Marx on the Transition From feudalism to Global Capitalism {#marx-manifesto}
+
+## The Bourgeoisie as a Revolutionary Class
+
+In the first part of "The Manifesto of the Communist Party" Marx provides a panoramic, and to this day unsurpassed description of the passage from Feudalism to capitalism, the revolutionary role of the bourgeoisie in facilitating this revolution and the revolutionary features that make capitalism a unique epoch in world history.  
+
+Something that might be surprising for some here is that Marx here appears to be *in favor* of capitalism.  Marx was of course against the social ills produced by capitalism in his time (impoverishment of the Proletariat, exploitation, social dislocation, etc.), but also conceived of capitalism as a necessary stage towards a better more humane social and economy system.  Thus, however negative the advent of capitalism and the destruction of medieval society in Europe was something to be celebrated as progressive.  Capitalism is bad, but traditional medieval society was even worse.
+
+Marx opens with his famous statement: "*The history of all hitherto existing society is the history of class struggles*" (473). This is considered the basic principle of **historical materialism**. People enter into class relations in producing their means of subsistence, and history can be read as a succession of conflicts between persons located in different positions in the production process. 
+
+Marx notes that a key feature of capitalism is the radical *simplification* of the class struggle:
+	
+> In the earlier epochs of history, we find almost everywhere a complicated arrangement of society into various orders a manifold gradation of social rank[\ldots]Our epoch, the epoch of the bourgeoisie, possesses, however, this distinctive feature:  it has simplified the class antagonisms: Society as a whole is more and more splitting into two great hostile camps, into two great classes facing each other: Bourgeoisie and Proletariat (p. 474).
+
+Marx goes on to detail how the modern Bourgeoisie emerges from the merchant classes of the medieval city.  As world capitalism grows with the integration of Europe into the Asian trade routes and the discovery of America, the old feudal system topples under the pressure to keep up with expanding markets and increasing demands. This leads to the dissolution of feudal systems of production and their replacement by the factory system, and later the mechanization and the industrialization of the production process. This gives rise to large scale industry and to the modern bourgeoisie as we understand it: "[w]e see, therefore how the modern bourgeoisie is itself *the product* of a long course of development of a series of revolutions in the modes of production and exchange. Each step in the development of the bourgeoisie was accompanied by a corresponding political advance of that class" (p. 475, italics added).
+
+Marx observes that throughout this development the bourgeoisie has evolved from a politically powerless class under the feudal nobility, to "an armed and self-governing association in the medieval commune," to independent urban republics in the Italian city-states to an ally of the great eighteenth and nineteenth century monarchies, and finally "since the establishment of Modern Industry and of the world-market" to being the politically dominant class in representative democracy systems: "*[t]he executive of the modern State is but a committee for managing the common affairs of the whole bourgeoisie*" (p. 475).
+ 
+## What is the Bourgeois Revolution?
+
+Marx then goes on to detail the various accomplishments that make the Bourgeoisie a "most revolutionary" class:
+
+- The Bourgeoisie has destroyed older traditions based on status and "natural" hierarchies:
+  > The bourgeoisie wherever it has got the upper hand, has put an end to all feudal, patriarchal, idyllic relationships.  It has pitilessly torn asunder the motley feudal ties that bound man to his natural superiors, and has left remaining no other nexus between man and man than naked self-interest, than callous `cash payment' (p. 475).
+
+- The Bourgeoisie has eliminated older traditions based on religion and sentiment and has replaced it with cold calculation based on monetary payments; it "has drowned the most heavenly ecstasies of religious fervor, of chivalrous enthusiasm, of philistine sentimentalism, in the icy water of egotistical calculation."  
+- The Bourgeoisie has "resolved personal worth into exchange value, and in place of the numberless indefeasible chartered freedoms, has set up that single, unconscionable freedom---Free Trade" (p. 475).
+- In one word, for exploitation, veiled by religious and political illusions, it has substituted naked, shameless, direct, brutal exploitation" (p. 475).
+- The Bourgeoisie has removed the ancient privileges and charismatic mystifications that attached to certain venerated occupations in the past. Instead, "it has converted the physician, the lawyer, the priest, the poet, the man of science, into its paid wage laborers" (p. 476).
+  > The bourgeoisie has torn away from the family its sentimental veil, and has reduced the family relation to a mere money relation" (p. 476).
+
+- The bourgeoisie has surpassed medieval classes in both activity and accomplishments:
+  > The bourgeoisie has disclosed how it came to pass that the brutal display of vigor of the middle ages{\ldots*found its fitting complement in the most slothful indolence.  It has been the first to show what man's activity can bring about.  It has accomplished wonders far surpassing Egyptian pyramids, Roman aqueducts, Gothic cathedrals.  It has conducted expeditions that put in the shade all former exoduses of nations (p. 476).
+	 
+- The bourgeoisie is on the side of constant technological change:
+  > The bourgeoisie cannot exist without *constantly revolutionizing* the means of production, and with them the whole relations of society. Conservation of the old modes of production in unaltered form, was, on the contrary, the first condition of existence for all earlier industrial classes.  Constant revolutionizing of production, uninterrupted disturbance of all social conditions, everlasting uncertainty and agitation distinguish the bourgeois epoch from all earlier ones. All fixed, fast-frozen relations, with their train of ancient and venerable prejudices and opinions, are swept away, all new-formed ones become antiquated before they can ossify. ***All that is solid melts into air, all that is holy is profaned, and man is at last compelled to face with sober senses, his real conditions of life, and his relations with his kind*** (p. 476).
+
+
+## Capitalism as a Global System
+
+- The Bourgeoisie is an inherently *global class*: "The need of a constantly expanding market for its products chases the bourgeoisie over the whole surface of the globe.  It must nestle everywhere, settle everywhere, establish connections everywhere" (p. 476).
+- The bourgeoisie is a primary agent of *globalization*: "The bourgeoisie has through its exploitation of the world-market given a cosmopolitan character to production and consumption in every country. To the great chagrin of Reactionists, it has drawn from under the feet of industry the national ground on which it stood" (p. 476).
+- Globalization spurs the creation of *new tastes*: "In place of the old wants satisfied by the productions of the country, we find new wants, requiring for their satisfaction the products of distant lands and climes"  (p. 476).
+- Globalization spells the *end of localism:* 
+  - "In place of the old local and national seclusion and self-sufficiency we have intercourse in every direction, universal inter-dependence of nations"  (p. 476).
+  - "The bourgeoisie, by the rapid improvement of all instruments of production, by the immensely facilitated means of communication draws all, even the most barbarian nations into civilization"  (p. 477).
+- The bourgeoisie spreads capitalism across the entire globe: 
+  - "It compels all nations, on pain of extinction, to adopt the bourgeois mode of production; it compels them to introduce what it calls civilization into their midst, i.e. to become bourgeois themselves.  In one word, it creates a world after its own image" (p. 477).
+- Cosmopolitanism emerges for both material and cultural production: "And as in material so also in intellectual production. The intellectual creations of individual nations become common property.  National one-sidedness and narrow mindedness become more and more impossible, and form the numerous national and local literatures there arises a world literature (p. 476-477).
+- The bourgeoisie is an agent of urbanization: "it has created enormous cities, has greatly increased the urban population as compared with the rural, and has thus rescued a considerable part of the population from the idiocy of rural life"   (p. 477).
+- The bourgeoisie is an agent of *colonization* and of asymmetric economic relations across regions: "[j]ust as it has made the country dependent on the towns, so it has made barbarian and semi-barbarian countries dependent on the civilized ones, nations of peasants on nations of bourgeois, the East on the West"   (p. 477).
+- The bourgeoisie is an agent of political *centralization* and social *homogenization*; it "keeps more and more doing away with the scattered state of the population, of the means of production, and of property.  It has agglomerated population, centralized means of production, and has concentrated property in a few hands. The necessary consequence of this was political centralization" (p. 477).
+
+## Marxian metaphors
+Some of the main ways in which Marx understood social and historical change were rendered via metaphors.  The following are some of the most important metaphors used by Marx.
+
+### Specters, ghosts, phantasms
+
+Marx referred to communism as a ghost or **specter** that was haunting Europe.  "A specter is haunting Europe: the specter of communism"  (p. 473).
+
+### Melting and Veiling
+
+Marx thought of capitalism as a revolutionary force that did away with the culture and habits of the *ancien regime*.  He usually used the metaphor of **melting away** to refer to this process, in particular in the classic passage that begins: "All that is solid melts into air, all that is holy is profaned, and men at last are forced to face with sober senses the real conditions of their lives and their relation with their fellow men."  In this passage Marx conceives of the older traditional culture of European societies based on tradition and hierarchy as a **veil** that prevented persons for seeing one another for what they were. Capitalism destroys tradition and frees persons to consider one another simply as human beings who work for a living without any distortions.
+
+### Tearing
+
+Marx used the metaphor of **tearing** to refer to consequences of capitalist development, that, while seemingly negative, actually heralded a positive development. This "tearing" was especially poignant as it concerned the effect of capitalism upon traditional views of social relationships and the family.  Thus, for Marx, capitalism has "*torn* asunder the motley feudal ties" that connected persons to one another under the old regime (p. 475). It has also "*torn* away from the family its sentimental veil" (p. 476).

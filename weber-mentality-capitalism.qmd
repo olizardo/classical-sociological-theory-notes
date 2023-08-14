@@ -1,0 +1,53 @@
+# Weber: The Protestant Ethic and Mentality (Spirit) of Capitalism {#spirit}
+
+## What is the Mentality of Capitalism?
+
+Weber begins by noting that the spirit of capitalism cannot be defined before-hand. Instead its full definition must be provided piece by piece and can only come at the end of the investigation. The reason for this is that the mentality of capitalism is a historically unique object which cannot be defined in the classical manner.
+
+Weber then goes on to provide an example of the Spirit of Capitalism in the form of **Benjamin Franklyn**'s maxims. Weber notes that the main difference between Franklyn's maxims and the idea of "greed" is the obvious moral content of the maxims. Here saving money and appearing credit worthy are not just expedient things to do; they are the right thing to do: they are a *duty*.
+
+Weber notes that the spirit of capitalism can be thought of as "an ethically-oriented maxim for the organization of life" (p. 71). This is the **spirit of modern capitalism** which must be differentiated from other forms of historically existing capitalisms, which retained a traditionalistic cast. What makes modern capitalism unique and what makes traditional sorts of capitalism distinct is that "just that peculiar ethic was missing in all these cases" (p. 72).
+
+Weber notes that the key defining feature of the ethic exemplified in Franklyn's maxims is that the acquisition of money comes to be defined as the supreme good, and as an end in itself; here "the acquisition of money, takes place here simultaneously with the strictest avoidance of all spontaneous enjoyment of it" and "the pursuit of riches is fully stripped of all pleasurable, and surely hedonistic, aspects" (p. 72).
+
+It is in this respect that the ethic of modern capitalism constitutes an exact reversal of the traditional economic ethic. In the traditional ethic the accumulation of riches is a *means* to an end, which is the hedonistic enjoyment of those riches.
+
+## The Capitalist Frame of Mind
+
+The other aspect of the spirit of capitalism which breaks with traditionalism is the attitude towards work. While in the traditionalist attitude work was a burden or a means to keep people alive in the spirit of capitalism work becomes sacralized as duty to a vocation[^"Sacralization" is the process whereby something becomes holy or sacred]: "this peculiar idea of a duty to have a vocational calling, so familiar to us today but actually not at all self-evident, is the idea that is characteristic of the "social ethic" of modern capitalist culture" (p. 73).
+
+What is important is that the notion of the calling "appears regardless of the particular nature of the activity and regardless, especially, of whether this activity seems to involve...*nothing more than a simple utilization of their the capacity for labor or their treatment of it as only a material possession (as "capital")* (p. 73). This is the particular **frame of mind** (mentality, spirit) that is characteristic of modern capitalism.
+
+Weber goes on to note that the development of this ethic of **the calling** actually predates modern **rational capitalism**.  In fact, persons born under contemporary capitalism do not really need to have imbued this ethic, since modern capitalism functions as an objectified "casing" into which we are all born (it is thus independent of any particular cultural support). Weber sees the fact that capitalism's basic ideas actually pre-date its full institutional maturity as a refutation of the historical materialist claim that ideas are the result of the super-structure (p. 74).
+
+## Economic Traditionalism
+
+The development of these ideas however was not unproblematic. Weber notes (p. 74-75) that in order to prevail, this ethic of the calling as a duty had to vanquish the spirit of **economic traditionalism** that dominated the middle ages, where it would have been dismissed as simply "as an expression of filthy greed."  Weber rejects that idea that the reason for this is that the acquisitive spirit was less developed back then; thus the development of the acquisitive instinct is not what distinguishes modern from pre-modern capitalism. 
+
+Thus, **traditional capitalism** (supplemented by the **moral dualism** which allows unscrupulous treatment of outsiders) is quite compatible with all forms of greed. Instead, modern capitalism is actually compatible with a restraining of this **acquisitive impulse** and its channeling towards a permanent, methodical and ultimately rational organization of economic life.
+
+**Economic traditionalism** is most poignantly observed in relation to the lack of effectiveness of economic incentives in the face of a traditionalist attitudes towards work and needs; when the piece rate is increased, workers tend to work less so that they can end up earning what they are accustomed to (p. 76).  Weber notes that "people do not wish `by nature' to earn more and more money.  Instead, they wish simply to live, and to live as they have been accustomed and to earn as much as is required to do so" (p. 77).
+
+Weber rejects top-down analyses of capitalism which presume to reduce it to a particular holistic "form." Instead, for  Weber the institutional form of capitalism must be decoupled from its **frame of mind** (mentality, spirit).  It is only when a specific frame of mind meets a modern form of organization of productive activity (in a relationship of "adequacy" not determination) that modern capitalism emerges. Historically one can find the form without the adequate frame of mind, and the frame of mind in anticipation of (and in the absence of) the organizational form.  
+
+Forms that seem modern can be managed in a "traditionalist" way; furthermore in the case of capitalism it was not the entrepreneurs of the "commercial aristocracy" who were the carriers of the frame of mind of modern capitalism. Instead it was the upwardly mobile, industrial middle classes.
+
+**Economic traditionalism** can thus be observed at the lower levels (in the attitude towards work of those who have nothing to sell but their labor) and at the "highest" labor (in the attitude towards acquisition and business on the part of capitalists).  Weber notes that the traditionalist equilibrium was upset not by the introduction of new technology or the development of new institutional frameworks or the influx of money capital but by the appearance of a new breed of capitalists endowed with a non-traditionalist frame of mind: "rather, a new spirit came into play: the spirit of modern capitalism" (p. 82).
+
+Who were these people? They were not,
+
+>...[A]s a rule, the bold and unscrupulous speculators or the adventurous persons in pursuit of riches, such as are encountered in all epochs of economic development, have not created this transformation...*Nor were the 'great financiers' pivotal.  Rather a different group proved central:  men raised in the school of hard knocks, simultaneously calculating and daring but above all dispassionate, steady, shrewd* devoted fully to their cause, and in possession of strict, middle class views and 'principles' (p. 83).
+
+## Luther's Conception of the "The Calling"
+
+Weber begins by noting the cultural resonance of the German word *beruf*, and how it is even more obvious in the English equivalent **calling**. The notion (specific to Protestantism and absent in Medieval Catholicism and Antiquity) that one's work is a task entrusted upon the person by God (p. 99).
+
+Weber also notes the cultural novelty of the notion, attributable mainly to the reformation, although there are aspects of the notion that do appear before. What is particularly novel about the Protestant notion is the attachment of *religious significance* to daily work. This is different from the Classical notion that only *certain types of work* were morally uplifting. The Protestant notion decouples the issue of moral worth of work from the *type* of work that you do. Even the most menial, mind-numbing, and boring type of work could be your calling, and thus would be the way in which manifest God's purpose for your life on earth. 
+
+In this way, Weber provides a **motivational account** (see Lecture \@ref(weber-action-interests)) for how worker's would be willing to perform what Marx (see Lecture \@ref(marx-estrangement)) called **alienating** or **estranged** labor in a sustained and systematic way for their whole life. That is, by developing the notion of the calling, Luther provides people with an **ideal interest** (tied initially to religious salvation) to engage in work, above and beyond the **material interest** of staying alive (the one that Marx recognized as preponderant in modern capitalism). 
+
+For Weber, the notion of the **calling** also serves to destroy the **moral dualism** of Medieval Catholicism which divided ethical commandments into those which were prescribed versus those which were "advised." In Protestantism, the entirety of the ethical commandments belong to the prescribed category, such that is everybody's duty to lead equally ascetic lives. For Weber, this results in the "moral legitimation of vocational life" (p. 101).^[Legitimation is the social process via which activities and institutions acquire **legitimacy** which means that they are seen as proper and acceptable.]
+
+Weber closes by noting that the basic task is not to evaluate the "substantive ideas" of the reformation by reference to social, political, or religious standards. Instead, the issue is to actually focus on seemingly peripheral "side-effects" of these ideas upon mundane matters that would otherwise escape notice. Accordingly, the main question to ask is: "Which characteristic features of our modern life and culture should be *attributed* to the influence of the Reformation?"
+
+Weber also rejects the **historical materialist** thesis that the reformation can be reduced to a simple after-effect of economic and technological transformations at the level of the **base**. For Weber, the reformation was the little **superstructure** that could! (change history). 

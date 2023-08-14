@@ -1,0 +1,86 @@
+---
+title: Marx on Estrangement and the Labor Process 
+---
+
+## Why begin with Marx?
+
+There are several reasons to begin with Marx. First, Marx is a representative of the transitional period in which a specifically social-scientific discourse is still struggling to differentiate itself from Philosophy. While philosophical discourses on society are as old as Plato's *Republic* or Aristotle's *Politics*, self consciously "scientific" discourses about society (modeled after the budding natural sciences of the day) do not emerge (in Western Europe) until the 18th century. Even then, these discourses do not reach full maturity until the middle of the nineteenth century. It would take another half-century for something like "sociology" to become institutionalized in University curricula.
+
+The only figure of a comparable stature to Marx who was also struggling to create a specifically scientific discourse about society at the same time is the French philosopher [**Auguste Comte**](http://en.wikipedia.org/wiki/Auguste_Comte). Comte is in fact the originator of the term sociology, which combines a Latin first half (*socius*, which means society) with a Greek second half (*logos*, which means knowledge) The reason why we don't begin with Comte is that Marx was actually much more successful in actually producing tangible evidence that something like an empirical sociology was possible. While Comte attempted to create an empirical sociology, his system remained much too wedded to traditional metaphysics (even though he saw his "positivist" philosophy as an attach on metaphysics).
+
+In Marx, by way of contrast, we see a clearer attempt to attack the categories of Western philosophy, metaphysics and political economy as incomplete. Marx argues that the analyst must begin from *empirical fact*. In that respect Marx's economic approach to history continues to be influential, while Comte's more heavy-handed approach to history has long fallen into disfavor.
+
+## Marx with and Against Philosophy
+
+This is of course not deny that Marx himself did not have strong philosophical commitments. The issue is not that Marx was not guided by those commitments, but that he felt that he also needed to point to empirical evidence to justify them. That's what makes Marx a part of the social-scientific and not the philosophical tradition.
+
+What were the major philosophical influences on Marx? First, there is no doubt that Hegelian influences are paramount. [**G. F. W. Hegel**](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel) is important, because he was the most influential modern philosopher to attempt to establish that history had a "logic" that could be grasped intellectually. In addition, Hegel attempted to join an abstract, philosophical theory of the origins of subjectivity in a dialectic of self and other with a theory of the way in which conceptions of the subject developed through history. In that respect, Hegel's approach to history was heavily theoretical, teleological and "progressive." Marx inherits all of these qualities.
+
+Second, it is obvious that Marx is an heir to both the **German romantic** tradition and the **French revolutionary** tradition. In the German romantic tradition, rather than *reason* or *rationality* being the primary qualities that distinguish human from other animals, it is instead *creativity* that makes humans unique. Thus, creative activity (exemplified primarily by artistic and intellectual creativity but also by the creativity of the craftsman who actually molds nature into useful forms) is taken as the \*model} of the most worthwhile forms of human behavior. Modern trends towards the routinization and mechanization of labor are condemned precisely because they take away the opportunity for persons to exercise creative activity. Marx's analysis of the labor process obviously belongs to this tradition.
+
+From the French revolutionary tradition (coupled with Hegelian "progressivism"), Marx inherits a penchant to "criticize" existing institutional arrangements seen as standing in the way of the full expression of personal capacities (e.g. the organization of production under capitalism) and to formulate *utopian* arrangements that will liberate persons from the "shackles" of existing institutions.
+
+## Estranged Labor
+
+### Self-interest
+
+Marx begins by criticizing classical political economy for taking its basic categories, namely, land, labor, capital, and private property, for granted and not providing a comprehensive account of their *origins* and their *functions*. Marx also criticizes classical political economy for presupposing an exogenous set of human motivations (e.g. greed, avarice) and "*the war amongst the avaricious---competition*" (p. 71).
+
+For Marx, greedy or selfish motivations for work and economic activity, along with the fact of competition, cannot be presupposed to be "hard-wired" into persons as a starting point for inquiry. Marx had a different theory of human nature: he thought of competition and selfishness as *derivative* of capitalism as an organized *system*. In this respect the emergence of a society of egoistic individuals competing against one another for scarce goods and the hegemony of cultural and intellectual theories that claim to derive this qualities as eternal properties of human nature must themselves be explained.
+
+> For Marx, people are just not greedy; they *become* greedy when embedded in a system in which greed is incentivized; competition does not just happen it must be allowed by the way in which production and exchanged are organized. \`\`\`
+
+### The System
+
+Marx argues that in order for the connections between all of these factors to be understood, they must placed in the context of a wider whole or "system." Taking any of these as exogenous begs the question as to their *emergence*. This apriorism makes classical (and neoclassical) economics into non-empirical, speculative "science." In contrast to this approach, Marx proposes one in which the analyst proceeds from "empirical fact." This last claim must of course be taken with a grain of salt. No analyst really begins from empirical fact. Instead, the construction of an analytic system requires *presuppositions*. Marx simply begins with different presuppositions. The difference is that he thinks his presuppositions have the added virtue of actually being supported by the relevant historical evidence, while those of classicla political economy are purely speculative.
+
+For Marx, persons are *not* fundamentally self-interested. In fact, what makes persons unique and different for animals is the fact that naturally they take the "species" (and not their individual self) as their primary object of interest. "self-interest" is not a natural condition, but a *consequence* of a particular organization of production. In fact Marx argues clearly (p. 75) that it is precisely because under capitalism "man" \[sic\] is estranged from nature (the objects and medium of her labor) and because man is estranged from herself (in the labor process) that she comes to be focused on her individual life.
+
+## Alienation
+
+### Alienation From the Product of Labor
+
+Marx notes that *the more workers produce as a class, the cheaper labor becomes*. For instance, labor is cheapest in industry that produce the most "stuff" (e.g. apparel). That is, real wages can decline or stagnate even as worker productivity increases. He also notes that in this process, the very product that the laborer produces confronts the worker as itself something that is alien and that does not belong to them. Thus, the worker comes to confront the external world of objects as an alien entity that exercises a constraining power over her. This is one aspect of alienation, the "objective culture" made up of finished goods comes to swallow the human workers that participate in their production.
+
+### Alienation From Activity
+
+In addition to being separated and alienated from the *product* of their labor, the worker is also alienated from her own *activity*. Thus, the worker performs actions robotically and without any attachment to them. More strongly, their actions technically belongs to the capitalist, who pays for them (in the form of wages) like he does for any other factor of production. The worker thus comes to be estranged form the very act of production during the "labor process." During work the worker is not herself, since her own activity does not "belong" to her: it belongs to the capitalist who "pays" for her labor. Thus, during work it is almost as if somebody else goes through "the motions" not the worker herself.
+
+As Marx explains:
+
+> What, then, constitutes the alienation of labour? First, the fact that labour is *external* to the worker, i.e., it does not belong to his essential being; that in his work, therefore, he does not affirm himself but denies himself, does not feel content but unhappy, does not develop freely his physical -6 and mental energy but mortifies his body and ruins his mind. The worker therefore only feels himself outside his work, and in his work feels outside himself. He is at home when he is not working, and when he is working he is not at home. His labour is therefore not voluntary, but coerced; it is *forced labour*. It is therefore not the satisfaction of a need; it is merely a \*means} to satisfy needs external to it. Its alien character emerges clearly in the fact that as soon as no physical or other compulsion exists, labour is shunned like the plague. External labour, labour in which man alienates himself, is a labour of self-sacrifice, of mortification. Lastly, the external character of labour for the worker appears in the fact that it is not his own, but someone else's, that it does not belong to him, that in it he belongs, not to himself, but to another. Just as in religion the spontaneous activity of the human imagination, of the human brain and the human heart, operates independently of the individual-that is, operates on him as an alien, divine or diabolical activity-in the same way the worker's activity is not his spontaneous activity. It belongs to another; it is the loss of his self (p. 72).
+
+### Labor under capitalism
+
+The modern organization of production makes labor a *means* to an end. But man's essence is to labor in a free, conscious way. That is labor is an *end in itself*. Laboring as a way to get something else (e.g. money or vacation) is unnatural for Marx. In the very same way "acquisitive" consumption is unnatural for Marx. He notes that private property has "made us so stupid" (p. 87) that we think that we have something only when it is possessed or directly consumed. But it is possible for something to be "ours" while at the same time being shared by others.
+
+People are different from animals in that they *consciously* produce their own means of subsistence. Life activity is an object of consciousness for people. Because of this, humans are the only animal that can in fact produce not for themselves, and not strictly for his or her own survival, but it can produce freely for others. Humans are the only animal that can create things that others (who are different from them) can appreciate and get a use out of.
+
+Consider this mystery: we have all gone shopping, and we have all found some commodity that appears to be "just for us." How does that happen? How is it possible that somebody who has never had a direct interaction with us, is able to "guess" what we would like?
+
+Estranged labor thus creates a condition in which people become capable of producing only for themselves and lose their capacity and ability to produce for others. This is exemplified today in the different between planning and execution or the difference between **mental** and **manual labor**. In this **division of labor** the modern process of estrangement is clearly exemplified: a (small) class of producers who produce for others and a large class of producers who produce for themselves. The difference between the "real jobs" people in the "creative arts" have and their "day jobs" is also relevant here. Here we see estrangement and alienation in the same person but segregated into different times of the day or different days of the week. Production "for the species" (artistic, creative labor) is gratifying and rewarding; while "estranged production" is painful and something that can only be put up with but never truly enjoyed or found self-fulfilling.
+
+### Self-estrangement and estrangement form others
+
+Finally, the organization of production under capitalism estranges persons from one another because it creates divisions in the social structure. For instance, if the product of my labor does not belong to me, then it belongs to somebody else. If I am not the one deciding on the "design" of the product, then someone else is. Insofar as **estranged labor** is a sort of distorted relation to oneself, this distorted relationship has to manifest itself in our interpersonal relations to others. Thus, insofar as the object that we produce does not belong to us and confronts us as something alien and powerful then it must belong to another person who also exerts power over us: "Every self-estrangement of man from himself and from nature appears in the relation in which he places himself and nature to men other than and differentiated from himself" (p. 78). Social divisions and the divisions between men, are thus the *product* of a particular organization of production.
+
+In reducing work to subsistence labor and in attaching essentially competitive and selfish motivations to what should be a selfless activity, labor under capitalism estranges men from the capacity to produce freely for others, and in this (most important) respect it estranges men from the most important part of their nature, which Marx refers to as their **species-being.**
+
+Once again, here's is Marx:
+
+> We have considered the act of estranging practical human activity, labour, in two of its aspects. (1) The relation of the worker to the *product of labour* as an alien object exercising power over him. This relation is at the same time the relation to the sensuous external world, to the objects of nature as an alien world antagonistically opposed to him. (2) The relation of labour to the *act of production* within the *labour* process. This relation is the relation of the worker to his own activity as an alien activity not belonging to him; it is activity as suffering, strength as weakness, begetting as emasculating, the worker's *own* physical and mental energy, his personal life or what is life other than activity-as an activity which is turned against him, neither depends on nor belongs to him. Here we have *self-estrangement*, as we had previously the estrangement of the thing (p. 73).
+
+Private property emerges as a consequence of alienated labor not its cause. The same analysis can be given of all of the other categories of political economy. Private property encapsulates both the antagonistic relation of the worker to himself (the product of his labor) as dual to the relationship between the worker and the non-worker (capitalist).
+
+This is part of Marx's attempt to turn the assumptions of classical political economy on their head. Rather than assume that persons are "naturally" selfish, selfishness is derived as a *consequence* of the organization of production under capitalism.Rather than assume that persons are in a natural state of competition against one another, competition is derived as a result of the *estrangement of persons from one another* (the third form of estrangement) under capitalism.Rather than presume that the mechanization and routinization of labor are natural, they are derived as the inevitable result of the **competition for profit** on the part of capitalists. Finally (and most controversially) rather than presume that private property is a primitive, the institution of private property is derived as a consequence of a **class division** between those who only have their wages to sell, and those who "buy" labor power in an open market.
+
+## Discussion Questions:
+
+1.  In what ways is private property an institutional arrangement?\
+2.  How do we arrange private property rights in contemporary capitalism? Are there examples of alternative arrangements that do not rely on private property rights?
+3.  Why is the fact that workers are "alienated" from the product of their labor important for Marx?
+4.  What is alienation from the activity of labor? Why is this painful for the worker?
+5.  What does Marx mean by "species being" how does this relate to alienation?
+6.  Why does Marx believe that selfishness and competition of all against all are not a natural state but an outgrowth of capitalism? Is this right?\
+7.  What is the difference between mental and manual labor? How does this relate to alienation?
+8.  Can we reconstruct what would be "ideal" for Marx? What would that look like?

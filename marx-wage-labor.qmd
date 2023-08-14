@@ -1,0 +1,55 @@
+# Marx on Wage, Labor, Capital, and Commodities {#marx-wage-labor-cap}
+
+## How Much is Work Worth?
+The first question that Marx takes up in this text is the issue of the *origins* and *determination* of wages.  He begins by evoking a simple scenario in which a worker is asked where his or her wages come from.  Marx notes that when confronted with such a question a worker will simply reply by noting how much money they receive from their employer at each given day.  
+
+Marx notes that this gives the impression that the employer is *buying* their labor, an abstract substance, with money, while the employee is simply *selling* their labor in exchange for money. Marx rejects this formulation as simply an "appearance" (p. 204).
+
+Instead, what the employer is doing is buying *labor power*, which is put to use by the capitalist for a given period of time.  But the capitalist could have used the money that he is paying the worker to buy some other commodity; this makes labor power substitutable for those alternative things that the capitalist could have spent his or her money on.  Thus, "[l]abour power, therefore, is a commodity, neither more nor less than sugar.  The former is measured by the clock, the latter by the scales" (p. 204).
+
+Marx goes on to reiterate the analysis of alienation as formulated in the **Paris Manuscripts** of 1844, where the analysis of **estrangement** ad **alineation** comes from (see \@ref(estrangement)). Labor is the person's very life activity, which they are compelled to sell to the capitalist, in transforming their own life-activity into commodities, persons are estranged from it: "the product of his activity, is not the object of hist activity" (p. 205). 
+
+Marx notes that capitalism institutes a strange indirect relationship between the worker, their life activity and the product of her labor. In capitalism, this connection is mediated by wages on both ends. On the **production** side, the relationship between worker and capitalist is mediated by the exchange of labor power for wages. On the **consumption** side, the relationship between the worker and commodities on the market are mediated by the prices of these commodities, and by the amount of each that the worker can afford (as fixed by their wages).
+
+Marx mentions that beyond the supply and demand fluctuations in the price of labor produced by competition on both sides of the boundary (e.g. competition between employers for workers and competition between potential workers for jobs), on average the price of labor will be equal to the "cost of production" of labor power.  The cost of production of labor power is the "cost required for maintaining the worker as a worker and of developing him into a worker" (p. 206).  This cost is, excluding for the sake of simplicity training costs, essentially the same as the price of the commodities necessary to keep the worker "alive and capable of working" (p. 206). We should also add to this the cost of "reproduction" that is, the costs necessary to replace "worn-out workers by new ones."  Wages so determined are referred to by Marx as *the wage minimum*.
+
+## What is Capital?
+
+Marx criticizes the traditional *essentialist* definition of capital on the part of political economists.  According to this definition, capital is simply labor as accumulated in (extracted) raw materials, (usable) land and machinery.  Marx argues on the other hand that capital becomes capital only when embedded in certain relations. 
+
+Marx points out that these *relations of production* vary according to the particular state of the productive forces, as he an Engels had noted in *The German Ideology* (p. 207) (see \@ref(soc-econ-hist)).  
+
+Marx argues that the Capital-Labor relation just so happens to be the relation of production characteristic to the bourgeois mode of production (capitalism). Because under capitalism there is a market for all of the "factors" of production (labor, raw materials, machinery, land, etc.), and thus everything is in principle exchangeable for everything else, capital can be thought of as a bundle of *exchange values*.  The value of commodities is simply the ratio at which they can be exchanged for another, which for convenience sake can be expressed in money as their price.
+
+Marx is now in a position to define **capital**.  A given set of exchange values in the form of "accumulated labor" functions as **capital** when there exists a majority of persons who are denied ownership of those values, and must thus exchange their labor power for a small piece of the surplus produced by activation of that capital through the action of living labor (labor power). Capital is thus not an entity defined by an intrinsic essence, but an essentially *relational* object. It only exists insofar as a bulk of workers exist that must sell their labor power for a wage.
+
+## What is a Commodity?
+
+According to Marx, you might be a (commodity) fetishist if...
+
+- You *concretize* (reify) *abstractions* in *material* objects or settings.
+
+- You attribute *animate* qualities (growth, reproduction, agency) to *inanimate* objects or processes.
+
+- You *confuse* what something is supposed to *mean* for the thing itself.
+
+- You treat something as having *power over you*, when it is your very own creation.
+
+For Marx,
+
+> A commodity is therefore a mysterious thing, simply because in it the social character of men's labor appears to them as an objective character stamped upon the product of that labor; because the relation of the producers to the sum total of their labor is presented to them as a social relation, existing no between themselves, but between the products of their labor''  (p. 320).
+
+> The existence of things qua commodities, and the value-relation between the products of labor which stamps them as commodities, have absolutely no connection with their physical properties and with the material relations arising therefrom.  There *it is a social relation between men, that assumes, in their eyes the fantastic form of a relation between thing*'' (p. 321).
+
+> Since the producers do not come into social contact with each other until they exchange their products, the specific social character of each producer’s labor does not show itself except in the act of exchange (p. 321).
+
+> [W]henever, by an exchange, we equate as values our different products, by that very act, we also equate, as human labor the different kinds of labor expended upon them.  We are not aware of this, nevertheless we do it. (p. 321).
+
+## Discussion Questions on Commodity Fetishism
+
+- What is fetishism?
+- What are the different aspects of fetishism?
+- In what specific ways does Marx use the concept of fetishism?
+- How does fetishism show up in our own society?
+- How does Marx explain the origins of fetishism as a result of the organization of production, consumption and exchange in capitalism?
+
