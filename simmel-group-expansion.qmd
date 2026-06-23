@@ -1,8 +1,7 @@
-# Simmel on Group Expansion and the Development of Individuality^[Simmel G. 1971[1908].  "Group Expansion and the Development of Individuality."  Pp. 251-293 in D. Levine (Ed.) *Georg Simmel on Individuality and Social Forms*.  Chicago: University of Chicago Press.]
-
+# Simmel on Group Expansion and the Development of Individuality
 ## Group Expansion
 
-Simmel begins by saying that he will be focusing not on describing a given social form, but in trying to argue for a correlation or linkage between two sociologocal factors: The *expansiveness* of the group, and the development of **individualism** as a cultural phenomenon:
+Simmel^[Simmel G. 1971[1908].  "Group Expansion and the Development of Individuality."  Pp. 251-293 in D. Levine (Ed.) *Georg Simmel on Individuality and Social Forms*.  Chicago: University of Chicago Press.] begins by saying that he will be focusing not on describing a given social form, but in trying to argue for a correlation or linkage between two sociologocal factors: The *expansiveness* of the group, and the development of **individualism** as a cultural phenomenon:
  
 > The following inquiry is of a different sort.  It is devoted to the demonstration of a relational pattern, of a single pattern, even though it emerges in conjunction with many modifications, wrappings and admixtures.  What is common to the sections of the present chapter  is not a concept, but a proposition. Rather than pursuing a single abstracted form in the phenomena where it happens to appear, phenomena whose contents are not constrained in any particular direction by the form, this chapter presents a particular [empirical] correlation, an interactionally determined pattern of development among forms of association [251-252].  
 
@@ -32,11 +31,12 @@ This last is a counter-intuitive conclusion:  as group expands and individuals d
 			
 > After the process of social differentiation has led to a separation between high and low, the mere formal fact of occupying a particular social position creates among the similarly characterized members of the most diverse groups a sense of solidarity and, frequently of actual relationships.  Accompannying such a differentiation of social groups, there arise a need and an inclination to reach out beyond the original spatial, economic, and mental boundaries of the group and, in connection with the increase in individualization and concomitant mutual repulsion of group elements, to supplement the original centripetal forces of the lone group with a centrifugal tendency that forms bridges with other groups (253).
 
-Simmel then goes on to recapitulate Marx and Engels' argument for the emergence of of global capitalist markets out of local feudal markets (see Lecture \@ref(marx-manifesto)), as an example of the end of communal de-differentiation and the emergence of market-based competitive differentiation. Simmel argues that economic globalization promotes individual differentiation from the group and leads to the decline of strongly bounded groups that suppress individuality:
+Simmel then goes on to recapitulate Marx and Engels' argument for the emergence of of global capitalist markets out of local feudal markets, as an example of the end of communal de-differentiation and the emergence of market-based competitive differentiation. Simmel argues that economic globalization promotes individual differentiation from the group and leads to the decline of strongly bounded groups that suppress individuality:
 			
 > Even given a certain technical division of labor, as long as the small, primitive group is self-sufficient, a pervasive equality exists in that each member of the group works for the group itself; every achievement is sociologically centripetal. However, as soon as the boundaries of the group are ruptured and it enters into trade in special products with another group, internal differentiation develops between those who produce for export and those who produce for domestic consumption---two wholly opposed modes of being (254).
 
-Key proposition:
+Simmel's key proposition is that:
+
 > ...[D]ifferentiation and individualization loosen the bond of the individual with those who are most near in order to weave in place a new one---both real and ideal---with those who are most distant...(256).
 				
 > Consistent with the above, the broad uneducated masses of one civilized people are more homogeneous internally, and they are separated from the masses of a second people by more distant characteristics, than is the case either within or between the educated strata of these populations (256).

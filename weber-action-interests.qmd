@@ -1,11 +1,11 @@
-# Weber: The Different Roads to Salvation {#weber-action-interests}
+# Weber: The Different Roads to Salvation 
 
 ## Why do people do the things they do?
 A key problem for Max Weber concerns the **motivation** for human action.  This was not a problem for Marx, because he had a strong theory of human nature that answered that question for him (persons are motivated to produce their means of subsistence through creative activity).  For Weber on the other hand, human nature is culturally pliable and thus motivations are culturally arbitrary (and thus problematic). 
 
 Weber focuses on **religion** because he sees this **life sphere** as being primary in terms of setting down fundamental motivations for human action (other life spheres like the economy actually *inherit* motivational templates from the religious one as we will see later). Weber sees the quest for salvation as the prototypical example of motivated action. For Weber unmotivated action is not social action, while motivated action is inherently social.
 
-Religious action is motivated action because it is action that is done with an explicit purpose in mind.  In so-called "salvation" religions this purposive nature of religious conduct is brought to the fore with clarity.  For instance the purpose of ritual can be the "cleansing" of the person from sin, or the production of a particular mood.
+Religious action is motivated action because it is action that is done with an explicit purpose in mind.  In so-called "salvation" religions this *purposive* nature of religious conduct is brought to the fore with clarity.  For instance the purpose of ritual can be the "cleansing" of the person from sin, or the production of a particular mood.
 
 ## Material versus Ideal Interests
 The key difference between Marx and Weber concerns the substantive content of motivation.  For Weber, the standard Marxian account is concerned exclusively with action motivated by what he refers to as **material interests**.  The Marxian model in which action and ideas are directly determined by social position "works" because in the case of material interests there is a one-to-one correspondence between interests and position, so the analyst can "predict"  one from the other.  Weber is interested instead in cases in which action appears to be motivated by **ideal interests**.  Ideal interests appear irrational from a Marxian model because they seem to go against the person's material interests. 

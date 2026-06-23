@@ -1,0 +1,54 @@
+# Durkheim on The Definition of Religion 
+
+## Durkheim's definition of religion
+Durkheim begins by noting that the focus of his discussion is not "religion" but instead **religious phenomena**.  Religious phenomena are obviously a more inclusive class of phenomena of which institutionalized religions are only a special case.   What are the main differences between religion and religious phenomena?  
+
+Durkheim defines **religious phenomena** as:
+
+> ...obligatory beliefs, connected with clearly defined practices which are related to given objects of those beliefs.
+
+He then defines religion as:
+
+> ...a more or less organized and systematized whole, composed of [these type of]...phenomena.
+
+In *The Elementary Forms* he revises this definition of religion as follows:
+
+> A religion is a unified system of beliefs and practices relative to sacred things, that is to say, things set apart and forbidden, beliefs and practices which unite into one single moral community called a church all those who adhere to them.
+
+## Contrast to other definitions of religion
+Durkheim contrasts his definition of religion to two other popular definitions:
+
+- Religion as the contemplation of ultimate mysteries.
+- Religion as a mode of connection to divine powers (God).
+
+Both of these definitions are rejected by Durkheim.  Why?
+
+In answer to this question, Durkheim notes that:
+
+> The mistake common to all these definitions is the desire to state from the beginning the content of religious life.  Quite apart from the fact that this content is infinitely varied in relation to different periods of time and different societies, it can only be determined slowly and progressively in the light of growing scientific knowledge;...Only the exterior and apparent form of religious phenomena is immediately accessible to observation; it is to this therefore that we must apply ourselves (87).
+
+Durkheim defines *obligation* as the primary characteristic of religious beliefs. In essence for Durkheim, that which is religious is that which is obligatory:
+
+> There is always an exact parallel between the *religious character* of the beliefs and the intensity of the *repression* which *imposes* respect for them, that is to say, the more *religious* they are, the more they are *obligatory*. This obligation results from their *nature* and can consequently serve as a *definition* of them (89).
+
+Accordingly, there is a strict oppossition between religious representations (ideas, practices) and those that are not religious, which is analogous to the status of certain representations as being **obligatory** (and thus not optional) in contrast to those that are optional or up to us. The former are religious and the latter are not:
+
+> [Representations]...of a religious kind are in opposition to others in the same way that obligatory opinions are in opposition to freely held opinions...[some ideas]...are mental states *sui generis*^[The Latin phrase *sui generis* means "of a special kind" or "of its own (unique) kind".] that we can easily recognize, it is not necessary to give a scientific account of them, and they cannot be confused with the products of our personal ideas.  Since they do not have the same origins, they do not share the same characteristics.  The former are traditions which the individual finds ready-made and to which he respectfully conforms his thought; the latter are our own work and, for this reason, do not curtail our liberty (89-90). 
+
+Because obligations can only come from society, then if religious phenomena are those that are obligatory, then they are also necessarily those that have a **social** not individual origin:
+
+>This is how the distinction between sacred and profane things to be found in all religions takes on its full meaning.  Sacred things are those whose...[representations] society itself has fashioned;...Profane things...are those which each of us constructs from our own sense data and experience; the ideas we have about them have as their subject matter unadulterated, individual impressions, and that is why they do no have the same prestige as the...[collective] ones (95).  
+
+The **sacred/profane** binary is thus strictly analogous to the **collective/individual** one. Those ideas and practices produced by a single person are **profane**, but those produced by a multiplcity of people acting in concert (society) are **sacred.**
+
+>...these two sorts of mental states constitute two kinds of intellectual phenomena, since one type is produced by a single brain and a single mind, the other by a plurality of brains and minds acting and reaction on each other (95).
+
+## Summary
+
+The link between religion and the sacred/profane binary can be summarized as follows:
+
+- It is the main way of dividing the world; Everything is either sacred or profane. 
+- The sacred and the profane realms do not overlap. Either something is sacred or it is profane, but it can never be both. The two domains are *absolutely heterogeneous*.
+- The category of *sacredness* is not defined by intrinsic or essential properties. Instead, it is defined by a *relational* property (just like Karl Marx defined the category of "Capital" see Lecture \@ref(marx-wage-labor-cap)) of being a collective representation held by a group. 
+- Therefore, nothing about the material constitution of an object makes it sacred. *Anything* (a pile of bones) can become sacred if held to be so by the collectivity and the belief made obligatory to any given individual. 
+- For Durkheim, the difference between *magic* and *religion* is that the former deals mostly with individual (profane) phenomena (e.g., personal wealth, happiness, etc.) while the latter deals with social, obligatory phenomena.

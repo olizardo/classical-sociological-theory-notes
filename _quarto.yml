@@ -1,14 +1,14 @@
 project:
   type: book
   output-dir: docs
-  
+
 book:
   title: Classical Sociological Theory
   subtitle: Lecture Notes
   author: Omar Lizardo 
   date: 8/15/2023
-  #repo-url: https://github.com/olizardo/classical-social-theory
-  #repo-actions: [source]
+  repo-url: https://github.com/olizardo/classical-sociological-theory-notes
+  repo-actions: [source]
   search:
     location: sidebar
     type: textbox
@@ -16,11 +16,11 @@ book:
     pinned: true
     background: "#2D68C4"
   sidebar: 
-    #logo: social-ties1.jpeg
     subtitle: Notes
   page-navigation: true
   chapters:
     - index.qmd
+    - lec1.qmd
     - part: marx.qmd
       chapters: 
       - marx-estrangement.qmd
@@ -33,8 +33,15 @@ book:
       - weber-action-interests.qmd
       - weber-religion-and-action.qmd
       - weber-mentality-capitalism.qmd
+    - part: simmel.qmd
+      chapters:
+      - simmel-group-expansion.qmd
+    - part: durkheim.qmd
+      chapters:
+      - durkheim-definition-of-religion.qmd
+    - references.qmd
 
-#bibliography: networks.bib
+bibliography: soc30900.bib
 
 format:
   html:
@@ -49,4 +56,3 @@ execute:
   message: false
 
 editor: source
-

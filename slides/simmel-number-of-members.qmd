@@ -1,0 +1,51 @@
+---
+title: "Simmel on the Number of Members and the Sociological Form of Groups"
+format: 
+  revealjs:
+    smaller: false
+    scrollable: true
+editor: source
+---
+
+# Key Ideas
+
+## Introduction
+- Revisits distinction between the **form** and the **content** of associations
+- Dedicated to a special version of the form/content problem:
+     - How number of members affect both the **form** and **content** ("inner life") of groups
+     
+## Opening examples
+- Basic example from Spencer's differentiation theory:
+     - As groups get larger certain structures are made possible while others disappear
+          - Division of labor develops 
+          - Egalitarian practices atrophy
+     - In smaller groups:
+          - Egalitarian norms and practices ("communistic") more feasible 
+     
+## Group size and human needs
+- Small groups can only provide for a restricted set of human needs and wants
+- Hence the (open ended) nature of human motivations is a spur to group expansion
+- Small groups can only survive by imposing restrictions on human motivations and needs
+- Small groups more likely to envelop the entire subjective life of the person ("total institutions")
+     
+## Inherent Limits to Size
+- Some groups (aristocracies) have inherent group size limits
+- If they grow too big, they lose their reason for being:
+     - > "When an aristocratic body gives place to the democratic
+centrifugal tendencies, which constitute the unavoidable trend of very large communities, it involves itself in such fatal contradictions of its own life-principle" (p. 5-6).^[Simmel, G. (1902). The number of members as determining the sociological form of the group. I. *American Journal of Sociology*, 8(1), 1-46.]
+
+## Aristocracies and Groups Size {.smaller}
+- That some groups cannot grow without losing their identity explains why group restrictions on size (closure) can be found throughout human history
+     - Hence, **Aristocracy** is a social form that reappears in various forms throughout history
+          - Aristocracies based on socioeconomic status, wealth, or bloodline just a particular type of **content** attached to the general **form**
+          - There can be political, artistic, scientific, religious, etc. "aristocracies"
+     - Their susceptibility to collapse due to expansion explains why aristocracies are generally fragile and short-lived
+
+## Group Size and Radicalism {.smaller}
+- Generally smaller groups are more "radical" when it comes to ideas and behavior than larger groups
+- Larger groups must accommodate a greater variety of interests and demands and thus tend toward middling compromise
+     - The social form of the (political) **party** best exemplifies this:
+          - Small parties (e.g., the greens) more radical than large parties (e.g., the social democrats)
+          - In the contemporary United States, the two large parties tend to compromise and "median voter" positions
+- The exception to the size/radicalism rule are **mobs** and **crowds** which as larger **masses** tend to combine large size and radical behavior (e.g., riots)
+     - However, this **radicalism of the mass** is short lived and expends itself quickly
