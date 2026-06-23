@@ -1,6 +1,11 @@
 project:
   type: book
   output-dir: docs
+  resources:
+    - "!*.qmd"
+    - "!*.bib"
+    - "!*.ipynb"
+    - "!slides/"
 
 book:
   title: Classical Sociological Theory
